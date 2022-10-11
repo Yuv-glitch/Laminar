@@ -43,7 +43,7 @@ To add versions to your models you can simply type **add version to [name]**
 ## Deleting a model
 To delete a model and its versions you can type **delete model [name]**
 
-``` delte model test ```
+``` delete model test ```
 
 >Model can be only be deleted if it was created with laminar and if the files or the path it was stored in are not changed :heart:
 
