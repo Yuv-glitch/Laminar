@@ -31,6 +31,8 @@ For example
 
 ``` create test ```
 
+Format to enter hyperparameters and performance scores is **name = value**
+
 To stop entering hyperparameters or performance scores you can just leave it blank and press enter
 
 >Something to remember here is that once you select a directory all the future models(model here is referred to the json file storing the metadata you just entered) would be stored at that path, to change the path you can use the ``` setpath ``` command:heart:
