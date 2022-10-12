@@ -63,7 +63,7 @@ To delete a specific version you can type **delete version**
 
 >Version can only be deleted if they were created with laminar and if the files or the path it was stored in are not changed :heart:
 
-##Listing out the current models made
+## Listing out the current models made
 To list all the models present currently you can type **listmodels**
 
 ```listmodels```
