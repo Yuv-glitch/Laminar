@@ -68,7 +68,7 @@ To delete a specific version you can type **delete version**
 ## Listing out the current models made
 To list all the models present currently you can type **listmodels**
 
-```listmodels```
+```list models```
 
 >Models made with laminar along with their respective path would be listed :heart:
 
